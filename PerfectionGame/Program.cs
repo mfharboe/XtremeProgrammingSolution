@@ -9,7 +9,7 @@ namespace PerfectionGame
     public class Program
     {
         static List<int> m_list = new List<int>();
-        static int sizeOfList = 50;
+      
 
         static void Main(string[] args)
         {
@@ -20,7 +20,7 @@ namespace PerfectionGame
         }
         public static void CreateList()
         {
-            Random random = new Random();
+           
             m_list.Add(14);
             m_list.Add(17);
             m_list.Add(19);
@@ -32,11 +32,7 @@ namespace PerfectionGame
             m_list.Add(4);
             m_list.Add(16);
             m_list.Add(17);
-            //m_list.Add(16);
-            //for (int i = 0; i < sizeOfList; i++)
-            //{
-            //    m_list.Add(random.Next(0, 20));
-            //}
+            
         }
 
 
@@ -159,4 +155,5 @@ namespace PerfectionGame
             return finalResult;
         }
     }
+    dadad
 }
