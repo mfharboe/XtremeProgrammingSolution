@@ -24,14 +24,14 @@ namespace PerfectionGame
             m_list.Add(14);
             m_list.Add(17);
             m_list.Add(19);
-            //m_list.Add(3);
-            //m_list.Add(4);
-            //m_list.Add(7);
-            //m_list.Add(8);
-            //m_list.Add(10);
-            //m_list.Add(4);
-            //m_list.Add(16);
-            //m_list.Add(17);
+            m_list.Add(3);
+            m_list.Add(4);
+            m_list.Add(7);
+            m_list.Add(8);
+            m_list.Add(10);
+            m_list.Add(4);
+            m_list.Add(16);
+            m_list.Add(17);
             //m_list.Add(16);
             //for (int i = 0; i < sizeOfList; i++)
             //{
@@ -127,7 +127,7 @@ namespace PerfectionGame
             var resultList = new List<Int32>();
             var finalResult = new List<int>();
             listOfLists.Add(resultList);
-            arg
+            
             for (var i = 0; i < testArray.Count; i++)
             {
                 if (i == 0)
