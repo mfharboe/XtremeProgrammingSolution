@@ -153,7 +153,6 @@ namespace PerfectionGame
                 {
                     finalResult = null;
                     finalResult = list;
-                    finalResult.Add(4000);
                     count = list.Count;
                 }
             }
