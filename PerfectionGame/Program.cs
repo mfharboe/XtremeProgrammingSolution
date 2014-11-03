@@ -130,7 +130,7 @@ namespace PerfectionGame
 
             for (var i = 0; i < testArray.Count; i++)
             {
-                if (i == 0)
+                if (i == 8)
                 {
                     resultList.Add(testArray[0]);
                 }
