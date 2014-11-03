@@ -127,10 +127,10 @@ namespace PerfectionGame
             var resultList = new List<Int32>();
             var finalResult = new List<int>();
             listOfLists.Add(resultList);
-
+            arg
             for (var i = 0; i < testArray.Count; i++)
             {
-                if (i == 8)
+                if (i == 0)
                 {
                     resultList.Add(testArray[0]);
                 }
