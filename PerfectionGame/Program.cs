@@ -9,8 +9,7 @@ namespace PerfectionGame
     public class Program
     {
         static List<int> m_list = new List<int>();
-      iadjfg
-
+ 
         static void Main(string[] args)
         {
             CreateList();
